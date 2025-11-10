@@ -45,7 +45,13 @@ def calculate_book():
 - [x] Ejercicio 02: Sum of numbers divisible by 5 or 7 (Resultado: 1580)
 - [x] Ejercicio 03: Sum of even Fibonacci numbers (Resultado: 1,089,154)
 - [x] Ejercicio 04: Prime Factorization
-- [ ] Ejercicio 05
+- [x] Ejercicio 05: Greatest Prime Factor
+- [x] Ejercicio 06: Three-digit Palindromic Numbers (Resultado: 90)
+- [x] Ejercicio 07: Largest Palindromic Number from Two-digit Product (Resultado: 9009)
+- [x] Ejercicio 08: Greatest Common Divisor (GCD)
+- [x] Ejercicio 09: Prime Number Check
+- [x] Ejercicio 10: Prime Number at Position 100 (Resultado: 541)
+- [ ] Ejercicio 11
 - ... (completar lista según avance)
 
 ## Recursos
